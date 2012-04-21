@@ -1,0 +1,101 @@
+Cmp-Mod V01 Genere par PcbNew le 4/17/2012 10:08:33 PM
+
+BeginCmp
+TimeStamp = /4F8CCDF9;
+Reference = P1;
+ValeurCmp = CONN_BOARD_10X2;
+IdModule  = PIN_ARRAY_10X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CCDFE;
+Reference = P2;
+ValeurCmp = CONN_PANEL_10X2;
+IdModule  = PIN_ARRAY_10X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CF4F5;
+Reference = P3;
+ValeurCmp = CONN_PRT_C;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CF529;
+Reference = P4;
+ValeurCmp = CONN_PORT_B;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CF4E2;
+Reference = P5;
+ValeurCmp = CONN_PRT_D;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CF4E8;
+Reference = P6;
+ValeurCmp = CONN_PWR;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CD6D6;
+Reference = U1;
+ValeurCmp = 74LS139;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CD013;
+Reference = U2;
+ValeurCmp = 74LS595;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CD4E9;
+Reference = U3;
+ValeurCmp = 74LS595;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CE376;
+Reference = U4;
+ValeurCmp = 74LS595;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CE54F;
+Reference = U5;
+ValeurCmp = 74LS244;
+IdModule  = DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CE56A;
+Reference = U6;
+ValeurCmp = 74LS244;
+IdModule  = DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CE6A0;
+Reference = U7;
+ValeurCmp = 74LS166;
+IdModule  = DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F8CDACF;
+Reference = U8;
+ValeurCmp = 74LS166;
+IdModule  = DIP-16__300;
+EndCmp
+
+EndListe
